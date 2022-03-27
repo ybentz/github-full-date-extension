@@ -58,7 +58,7 @@ input[type='text'] {
 	display: none;
 }
 
-@-moz-document url-prefix('') {
+@-moz-document url-prefix() {
 	.only-firefox {
 		display: block;
 	}

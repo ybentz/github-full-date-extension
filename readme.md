@@ -52,7 +52,7 @@ You can also [load the extension manually in Chrome](https://www.smashingmagazin
 
 ### ✏️ Make the first change
 
-1. For example, edit source\manifest.json to `"name": "My Awesome Extension",`
+1. For example, edit src\manifest.json to `"name": "My Awesome Extension",`
 1. Go back to your browser, reload and see the change take effect
 
 Note: Firefox will automatically reload content scripts when the extension is updated, Chrome requires you to reload the page to reload the content scripts.
